@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppLoginScreen</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="buttonname">Giriş Yap</string>
+    <string name="title">Talk App</string>
+</resources>
